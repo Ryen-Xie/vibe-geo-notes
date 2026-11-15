@@ -1,0 +1,24 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# 素材与中间产物（体积大、版权状态需单独登记，不入库）
+assets/
+media/
+frames/
+exports/
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.psd
+*.blend
+*.ai
+
+# Python
+__pycache__/
+*.pyc
+.venv/
