@@ -1,0 +1,36 @@
+ID,名称,类型,权利人/来源,许可状态,可否复制原文,可否商用,建议使用方式,链接,备注
+T01,人教版高中地理教材（2019）,教材,人民教育出版社,受版权保护,否（短引用需标注）,否,对齐知识点与章节结构，自写讲解；不截取插图与正文,https://www.pep.com.cn,引用单句须注明版本与章节
+T02,湘教版高中地理教材,教材,湖南教育出版社,受版权保护,否（短引用需标注）,否,同上,https://www.hneph.com,同上
+T03,中图版高中地理教材,教材,中国地图出版社,受版权保护,否（短引用需标注）,否,同上；地图须用审图号版本,https://www.sinomaps.com,同上
+T04,鲁教版高中地理教材,教材,山东教育出版社,受版权保护,否（短引用需标注）,否,同上,http://www.sdpep.com,同上
+T05,学科网教辅/试题/课件,教辅,学科网（北京）股份有限公司,受版权保护+平台条款,否,否,仅参考题型与考法，自行重新命题,https://www.zxxk.com,抓取与转载可能同时违反著作权与平台协议
+T06,全品学练考系列,教辅,全品文教,受版权保护,否,否,同上,https://www.canpointgz.cn,同上
+T07,21世纪教育网课件与教案,教辅,21世纪教育网,受版权保护,否,否,同上,https://www.21cnjy.com,同上
+T08,高考真题（全国卷/各省卷）,试题,教育部教育考试院及各省考试院,受版权保护,仅限评析用短引用并标注,否,讨论考点分布这类事实；题目自行改写为同考点新情境,https://gaokao.neea.edu.cn,整卷汇编需授权
+T09,高考地理试题评析（《中国考试》）,评析文章,中国教育考试网/《中国考试》,受版权保护,仅限短引用,否,引用结论性判断并标注作者与刊物,https://gaokao.neea.edu.cn,不宜整篇转载
+T10,普通高中地理课程标准（2017年版2020年修订）,官方文件,中华人民共和国教育部,官方文件,引用要点并标注,谨慎,引用条目编号与内容要求,https://www.pep.com.cn,全文转载不宜作为自有内容
+T11,NASA Blue Marble 地球影像,图片,NASA Goddard / NASA SVS,免费使用（不主张版权）,可,可（不得暗示NASA背书）,地球贴图与开场镜头,https://svs.gsfc.nasa.gov,不得使用NASA徽标
+T12,NASA SVS 科学可视化视频,视频素材,NASA,免费使用,可,可,参考动画语言与素材底片,https://svs.gsfc.nasa.gov,同上
+T13,NASA Earthdata（MODIS/VIIRS/SRTM）,数据,NASA,开放获取+引用规范,可,可,气候与地形数据可视化,https://www.earthdata.nasa.gov,画面标注数据来源与年份
+T14,NOAA 卫星云图与海温,数据,NOAA,美国政府作品·公共领域,可,可,实时云图与台风过程,https://www.noaa.gov,标注NOAA
+T15,USGS 地震目录与地形,数据,USGS,公共领域,可,可,地震带打点（E12 核心素材）,https://earthquake.usgs.gov,标注USGS
+T16,Natural Earth 矢量与栅格底图,数据,Natural Earth,公共领域,可,可,自制示意底图,https://www.naturalearthdata.com,不得改绘国界
+T17,OpenStreetMap,数据,OSM 贡献者,ODbL 1.0,可（需署名）,可（需署名+相同许可）,城市尺度底图,https://www.openstreetmap.org,署名"© OpenStreetMap contributors"
+T18,Copernicus Sentinel 数据,数据,欧盟 Copernicus,免费开放,可,可,高分地表与洪水范围,https://www.copernicus.eu,注明来源
+T19,ESO/ESA 天文图像,图片,ESO / ESA,多为 CC BY 4.0（逐张确认）,可（需署名）,可（需署名）,深空与星云背景,https://www.eso.org,逐张核对许可
+T20,Wikimedia Commons 图片,图片,各上传者,逐文件许可,视许可而定,视许可而定,优先选 CC0/CC BY 素材,https://commons.wikimedia.org,下载时保存许可页截图
+T21,自然资源部标准地图,地图,自然资源部,免费下载·需标注审图号,可,可（须原样使用）,中国地图底图,https://bzdt.ch.mnr.gov.cn,画面角落显示审图号
+T22,天地图/高德/百度底图截图,地图,各平台,平台服务条款限制,否,需单独授权,避免直接截图；改用标准地图,https://www.tianditu.gov.cn,商用前查开放平台条款
+T23,three.js,开源库,mrdoob, MIT,可,可,3D地球渲染,https://github.com/mrdoob/three.js,保留版权声明
+T24,Cesium,开源库,CesiumGS, Apache-2.0,可,可,专业3D地球与时间轴,https://github.com/CesiumGS/cesium,保留 NOTICE
+T25,suncalc,开源库,mourner, BSD-2-Clause,可,可,太阳方位与高度计算,https://github.com/mourner/suncalc,保留版权声明
+T26,d3-geo,开源库,d3, ISC,可,可,投影与经纬路径,https://github.com/d3/d3-geo,保留版权声明
+T27,GemPy,开源库,cgre-aachen, LGPL-3.0,可,可（出片无碍）,3D地质建模,https://github.com/cgre-aachen/gempy,嵌入分发产品时注意传染性
+T28,思源黑体/Noto Sans CJK,字体,Adobe/Google, SIL OFL,可,可,字幕与标题,https://github.com/adobe-fonts/source-han-sans,保留许可文件
+T29,阿里巴巴普惠体,字体,阿里巴巴,官方免费商用（按其条款）,可,可,中文标题,https://www.alibabafonts.com,保存授权说明
+T30,微软雅黑/方正/汉仪商业字体,字体,微软/方正/汉仪,需授权,否,否,替换为开源字体,https://www.foundertype.com,商用高危
+T31,Pixabay Music / FreeSound CC0,音乐,Pixabay 社区/FreeSound 贡献者,CC0或平台许可,可,可,BGM与音效,https://pixabay.com/music,保留许可截图
+T32,影视原声与流行歌曲,音乐,各唱片公司,受版权保护,否,否,不要使用,,-
+T33,AI 生成图像与视频,生成内容,各生成平台/使用者,取决于平台条款,可（按平台条款）,需查条款,主力画面生产,,商用前确认平台授权范围
+T34,网络搜索所得的教辅配图/课件截图,图片,不明/各机构,默认不可用,否,否,一律不用,,网络找图不是授权
+T35,纪录片与影视截图,视频,各制片方,受版权保护,仅评论性短引用,否,尽量不用,,-
